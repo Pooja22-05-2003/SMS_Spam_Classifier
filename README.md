@@ -25,7 +25,7 @@ The Stacking Classifier is utilized to combine the predictions of multiple base 
 The dataset used for this project can be found at (https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download).
 
 ## Requirements
-- Python 3
+- Python 
 - Pandas
 - NumPy
 - Scikit-learn
