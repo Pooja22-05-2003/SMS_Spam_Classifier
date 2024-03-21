@@ -1,6 +1,6 @@
 # SMS Spam Classifier
 
-This project implements a machine learning model for classifying SMS messages as either spam or not spam (ham). The dataset used in this project is obtained from the UCI Machine Learning Repository.
+This project implements a machine learning model for classifying SMS messages as either spam or not spam (ham). The dataset used in this project is obtained from the UCI Machine Learning (Kaggle).
 
 ## Steps
 
