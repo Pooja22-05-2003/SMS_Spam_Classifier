@@ -22,7 +22,7 @@ The Stacking Classifier is utilized to combine the predictions of multiple base 
 - Precision: 0.9328358208955224
 
 ## Dataset
-The dataset used for this project can be found at [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection).
+The dataset used for this project can be found at (https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download).
 
 ## Requirements
 - Python 3
